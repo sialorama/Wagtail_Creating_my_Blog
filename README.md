@@ -1,4 +1,4 @@
-# Create your site or blog using Wagtail
+# Create your own site or blog using Wagtail
 
 Wagtail is an open source CMS written in Python and built on the Django web framework.
 
