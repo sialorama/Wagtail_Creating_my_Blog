@@ -6,9 +6,7 @@ Quick install
 Run the following commands in a virtual environment of your choice:
 
 ```
-function test() {
-  console.log("pip install wagtail");
-}
+pip install wagtail
 ```
 
 (Installing wagtail outside a virtual environment may require sudo. sudo is a program to run other programs with the security privileges of another user, by default the superuser)
